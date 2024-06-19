@@ -1,4 +1,5 @@
 #!/usr/bin/env node
+//          Project 00: Calculator
 import inquirer from "inquirer";
 import chalk from "chalk";
 
